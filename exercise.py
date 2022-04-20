@@ -7,9 +7,17 @@
 
 my_fav_plant = "Norway spruce"
 
-x , y = 2 , 2.2222
+x: int = 2
+y: float = 2.22
 
-firstValue,secondValue = 2
+firstValue = secondValue = 10
 
 firstVal , secondVal = 1,2
 
+print(my_fav_plant)
+print(x)
+print(y)
+print(firstValue)
+print(secondValue)
+print(firstVal)
+print(secondVal)
